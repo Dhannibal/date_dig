@@ -1,0 +1,17 @@
+16
+High True True False P
+Very high False False False N
+Very high True False True P
+Normal True True True P
+Normal False False True N
+High True False False P
+High True False True P
+Very high Ture Ture False P
+High False True True P
+Normal True False False N
+Normal True False True P
+Normal False Ture True P
+High False False False N
+Very high False True False P
+Very high False True False P
+High False False True P

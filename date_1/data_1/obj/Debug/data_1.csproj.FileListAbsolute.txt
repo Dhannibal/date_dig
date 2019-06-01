@@ -1,0 +1,48 @@
+C:\Users\hannibal lecter\Desktop\data_1\data_1\bin\Debug\data_1.exe.config
+C:\Users\hannibal lecter\Desktop\data_1\data_1\bin\Debug\data_1.exe
+C:\Users\hannibal lecter\Desktop\data_1\data_1\bin\Debug\data_1.pdb
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.csprojAssemblyReference.cache
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.Form1.resources
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.Properties.Resources.resources
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.csproj.GenerateResource.cache
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.csproj.CoreCompileInputs.cache
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.exe
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.pdb
+C:\Users\hannibal lecter\Desktop\data_1\data_1\obj\Debug\data_1.Form2.resources
+C:\Users\asus\Desktop\data_1\bin\Debug\data_1.exe.config
+C:\Users\asus\Desktop\data_1\bin\Debug\data_1.exe
+C:\Users\asus\Desktop\data_1\bin\Debug\data_1.pdb
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.Form1.resources
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.Form2.resources
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.Properties.Resources.resources
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.exe
+C:\Users\asus\Desktop\data_1\obj\Debug\data_1.pdb
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.exe.config
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.exe
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.pdb
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csprojAssemblyReference.cache
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form1.resources
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form2.resources
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Properties.Resources.resources
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csproj.GenerateResource.cache
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csproj.CoreCompileInputs.cache
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.exe
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.pdb
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form3.resources
+C:\Users\hannibal lecter\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form4.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form1.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form2.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form3.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Form4.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.Properties.Resources.resources
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.exe
+C:\Users\asus\Desktop\Desktop\date_1\data_1\obj\Debug\data_1.pdb
+C:\Users\asus\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.exe.config
+C:\Users\asus\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.exe
+C:\Users\asus\Desktop\Desktop\date_1\data_1\bin\Debug\data_1.pdb
